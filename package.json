@@ -1,0 +1,9 @@
+{
+  "name": "@filibertovanho/blockchain-demo",
+  "version": "1.0.0",
+  "description": "blockchain simple",
+  "main": "index.js",
+  "author": "@filibertovanho",
+  "repository": "https://github.com/FilibertoVanho/blockchain-demo.git",
+  "license": "ISC"
+}
